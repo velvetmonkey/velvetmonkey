@@ -28,8 +28,10 @@ proved, tested, or it says plainly what is trusted.
 
 A cited, importable library of machine-checked mathematics spanning the spine of
 modern AI: optimisation, dynamical systems, learning theory. Most repos are
-zero-`sorry`; each states its axioms and any documented gaps. **This page is the
-index — start here rather than hunting the individual repos.**
+zero-`sorry`; each states its axioms and any documented gaps.
+
+**Live landing page: [https://velvetmonkey.github.io/lean/](https://velvetmonkey.github.io/lean/)** **This page is the
+index. Start here rather than hunting the individual repos.**
 
 ### Convex optimisation and gradient methods
 | Repo | Result |
