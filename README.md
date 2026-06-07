@@ -2,6 +2,8 @@
 
 **Claims need receipts.**
 
+*Formal verification, AI research, and a healthy allergy to overclaiming.*
+
 Senior Software Architect (ESG data platforms, API architecture) working at the
 seam of **formal verification** and **AI research**. I build verified tools for
 AI agents and a machine-checked Lean 4 proof corpus. If it is claimed here, it is
@@ -83,5 +85,7 @@ index — start here rather than hunting the individual repos.**
 | [observer-patch-holography](https://github.com/velvetmonkey/observer-patch-holography) | OPH: finite observer-patch reconstruction (active research). |
 
 ---
+
+Built in the open. When a repo says zero `sorry`, it means zero `sorry`.
 
 📫 [linktr.ee/thevelvetmonkey](https://linktr.ee/thevelvetmonkey) · [@thevelvetmonke](https://x.com/thevelvetmonke)
