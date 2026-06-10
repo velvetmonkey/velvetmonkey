@@ -67,6 +67,11 @@ index. Start here rather than hunting the individual repos.**
 | [lotka-volterra-lean](https://github.com/velvetmonkey/lotka-volterra-lean) | Lotka-Volterra predator-prey dynamics. |
 | [langevin-lean](https://github.com/velvetmonkey/langevin-lean) | Bounded-noise Langevin dynamics. |
 
+### Distributed systems and consensus
+| Repo | Result |
+|---|---|
+| [crdt-lean](https://github.com/velvetmonkey/crdt-lean) | State-based CRDT convergence: Strong Eventual Consistency, conditional liveness under fairness, concrete instances. |
+
 ### Neural and associative memory
 | Repo | Result |
 |---|---|
