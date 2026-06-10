@@ -70,7 +70,8 @@ index. Start here rather than hunting the individual repos.**
 ### Distributed systems and consensus
 | Repo | Result |
 |---|---|
-| [crdt-lean](https://github.com/velvetmonkey/crdt-lean) | State-based CRDT convergence: Strong Eventual Consistency, conditional liveness under fairness, concrete instances. |
+| [crdt-lean](https://github.com/velvetmonkey/crdt-lean) | State-based CRDT convergence (AP): Strong Eventual Consistency, conditional liveness under fairness, concrete instances. |
+| [consensus-lean](https://github.com/velvetmonkey/consensus-lean) | Quorum-based consensus safety (CP): quorum intersection implies agreement, at most one value ever chosen. |
 
 ### Neural and associative memory
 | Repo | Result |
