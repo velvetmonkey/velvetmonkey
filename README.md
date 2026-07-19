@@ -96,4 +96,4 @@ index. Start here rather than hunting the individual repos.**
 
 Built in the open. When a repo says zero `sorry`, it means zero `sorry`.
 
-📫 [linktr.ee/thevelvetmonkey](https://linktr.ee/thevelvetmonkey) · [@thevelvetmonke](https://x.com/thevelvetmonke)
+📫 [linktr.ee/thevelvetmonke](https://linktr.ee/thevelvetmonke) · [@thevelvetmonke](https://x.com/thevelvetmonke)
