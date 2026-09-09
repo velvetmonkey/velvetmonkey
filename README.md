@@ -4,10 +4,10 @@
 
 *Formal verification, AI research, and a healthy allergy to overclaiming.*
 
-Senior Software Architect (ESG data platforms, API architecture) working at the
-seam of **formal verification** and **AI research**. I build verified tools for
-AI agents and a machine-checked Lean 4 proof corpus. If it is claimed here, it is
-proved, tested, or it says plainly what is trusted.
+Architect (ESG data platforms, API architecture) working at the seam of **formal
+verification** and **AI research**. I build verified tools for AI agents and a
+machine-checked Lean 4 proof corpus. If it is claimed here, it is proved, tested,
+or it says plainly what is trusted.
 
 ---
 
@@ -17,7 +17,6 @@ proved, tested, or it says plainly what is trusted.
 |---|---|
 | [seal](https://github.com/velvetmonkey/seal) | A local MCP approval gate for Claude Code: exact-call prompts, at-most-once approval, drift refusal, and signed decision receipts. Seal is a gate, not a sandbox. |
 | [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean 4 proofs behind five CRDTs (G-Set, G-Counter, PN-Counter, OR-Set, RGA/Text) in `no_std` Rust, with C ABI, WASM/TypeScript and Python surfaces. You bring the transport. |
-| [canary](https://github.com/velvetmonkey/canary) | LangGraph pipeline for ESG regulatory-change monitoring: fetch, detect, extract, verify, report. |
 
 ---
 
