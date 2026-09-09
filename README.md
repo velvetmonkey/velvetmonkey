@@ -21,6 +21,7 @@ proved, tested, or it says plainly what is trusted.
 | [canary](https://github.com/velvetmonkey/canary) | LangGraph pipeline for ESG regulatory-change monitoring: fetch, detect, extract, verify, report. |
 | [flywheel-ideas](https://github.com/velvetmonkey/flywheel-ideas) | Local-first falsifiable decision ledger. Turns a vault into a compounding decision system with multi-model dissent and outcome-driven refutation. |
 | [flywheel-gravity](https://github.com/velvetmonkey/flywheel-gravity) · [vault-core](https://github.com/velvetmonkey/vault-core) · [flywheel-crank](https://github.com/velvetmonkey/flywheel-crank) | The rest of the Flywheel ecosystem: gravity ranking, shared core, and the Obsidian companion plugin. |
+| [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean-backed CRDT convergence for small, embeddable state sync. |
 
 ---
 
