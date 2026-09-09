@@ -15,13 +15,9 @@ proved, tested, or it says plainly what is trusted.
 
 | Repo | What it is |
 |---|---|
-| [mcp-seal](https://github.com/velvetmonkey/mcp-seal) | Verified MCP approval-gate sidecar. A Lean-proven policy monitor that gates `tools/call` until a human approval exists. |
-| [flywheel-memory](https://github.com/velvetmonkey/flywheel-memory) | Compounding knowledge-graph memory for AI agents over open markdown. Hybrid search, self-correcting wikilinks, decision-surface retrieval. |
-| [roundtable](https://github.com/velvetmonkey/roundtable) | Zero-config MCP server that convenes multiple AI coding CLIs as one council. |
+| [seal](https://github.com/velvetmonkey/seal) | A local MCP approval gate for Claude Code: exact-call prompts, at-most-once approval, drift refusal, and signed decision receipts. Seal is a gate, not a sandbox. |
+| [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean 4 proofs behind five CRDTs (G-Set, G-Counter, PN-Counter, OR-Set, RGA/Text) in `no_std` Rust, with C ABI, WASM/TypeScript and Python surfaces. You bring the transport. |
 | [canary](https://github.com/velvetmonkey/canary) | LangGraph pipeline for ESG regulatory-change monitoring: fetch, detect, extract, verify, report. |
-| [flywheel-ideas](https://github.com/velvetmonkey/flywheel-ideas) | Local-first falsifiable decision ledger. Turns a vault into a compounding decision system with multi-model dissent and outcome-driven refutation. |
-| [flywheel-gravity](https://github.com/velvetmonkey/flywheel-gravity) · [vault-core](https://github.com/velvetmonkey/vault-core) · [flywheel-crank](https://github.com/velvetmonkey/flywheel-crank) | The rest of the Flywheel ecosystem: gravity ranking, shared core, and the Obsidian companion plugin. |
-| [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean-backed CRDT convergence for small, embeddable state sync. |
 
 ---
 
