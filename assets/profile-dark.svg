@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="244" viewBox="0 0 1120 244" role="img" aria-labelledby="title desc">
+  <title id="title">Ben Cassie — useful tools, checkable claims.</title>
+  <desc id="desc">Apps, demos and machine-checked mathematics, illustrated by a receipt and connected replicas.</desc>
+  <rect width="1120" height="244" rx="12" fill="#101923"/>
+  <path d="M0 243.5H1120" stroke="#2a3d48"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="45" font-size="16" letter-spacing="2.3" fill="#a8b9c6">BEN CASSIE / VELVETMONKEY</text>
+    <text x="35" y="110" font-size="46" font-weight="700" letter-spacing="-1.8" fill="#edf4f5">Useful tools.</text>
+    <text x="35" y="164" font-size="46" font-weight="700" letter-spacing="-1.8" fill="#88e1c3">Checkable claims.</text>
+    <text x="38" y="207" font-size="19" fill="#b5c4cd">Apps, demos &amp; machine-checked mathematics.</text>
+  </g>
+  <g transform="translate(750 35)">
+    <path d="M34 145L137 48L264 129" fill="none" stroke="#37586a" stroke-width="2"/>
+    <path d="M34 145L264 129" stroke="#37586a" stroke-width="2" stroke-dasharray="4 6"/>
+    <g fill="#17392f" stroke="#88e1c3" stroke-width="2">
+      <circle cx="137" cy="48" r="25"/>
+      <circle cx="264" cy="129" r="25"/>
+    </g>
+    <g fill="#88e1c3"><circle cx="137" cy="48" r="5"/><circle cx="264" cy="129" r="5"/></g>
+    <g transform="rotate(-5 34 128)">
+      <rect x="-6" y="78" width="86" height="105" rx="5" fill="#25313a" stroke="#59636a"/>
+      <path d="M-1 80H75" stroke="#f1ac87" stroke-width="4"/>
+      <path d="M10 102H54M10 114H62M10 126H41" stroke="#94a8b2" stroke-width="3"/>
+      <path d="M13 153L21 161L37 143" fill="none" stroke="#f1ac87" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
