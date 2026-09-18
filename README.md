@@ -18,6 +18,10 @@ or it says plainly what is trusted.
 | [seal](https://github.com/velvetmonkey/seal) | A local MCP approval gate for Claude Code: exact-call prompts, at-most-once approval, drift refusal, and signed decision receipts. Seal is a gate, not a sandbox. |
 | [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean 4 proofs behind five CRDTs (G-Set, G-Counter, PN-Counter, OR-Set, RGA/Text) in `no_std` Rust, with C ABI, WASM/TypeScript and Python surfaces. You bring the transport. |
 
+The Seal family: [install the approval gate](https://github.com/velvetmonkey/seal),
+[check a receipt in your browser](https://github.com/velvetmonkey/seal-check),
+or [review evidence from the command line](https://github.com/velvetmonkey/seal-assurance-kit).
+
 ---
 
 ## The Lean 4 proof corpus
