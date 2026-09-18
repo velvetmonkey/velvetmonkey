@@ -1,8 +1,16 @@
-# Ben Cassie — velvetmonkey
+<div align="center">
+
+# Ben Cassie
 
 **Claims need receipts.**
 
 *Formal verification, AI research, and a healthy allergy to overclaiming.*
+
+[![Seal](https://img.shields.io/badge/Seal-approval%20gate-1a1a1a?style=flat-square)](https://velvetmonkey.github.io/seal/)
+[![SafeMesh](https://img.shields.io/badge/SafeMesh-CRDTs%20in%20Lean-b1420a?style=flat-square)](https://velvetmonkey.github.io/safemesh/)
+[![Lean 4 proof corpus](https://img.shields.io/badge/Lean%204-proof%20corpus-2f6ea3?style=flat-square)](https://velvetmonkey.github.io/lean/)
+
+</div>
 
 Architect (ESG data platforms, API architecture) working at the seam of **formal
 verification** and **AI research**. I build verified tools for AI agents and a
@@ -13,10 +21,10 @@ or it says plainly what is trusted.
 
 ## Verified tools for AI agents
 
-| Repo | What it is |
-|---|---|
-| [seal](https://github.com/velvetmonkey/seal) | A local MCP approval gate for Claude Code: exact-call prompts, at-most-once approval, drift refusal, and signed decision receipts. Seal is a gate, not a sandbox. |
-| [safemesh](https://github.com/velvetmonkey/safemesh) · [Documentation](https://velvetmonkey.github.io/safemesh/) | Lean 4 proofs behind five CRDTs (G-Set, G-Counter, PN-Counter, OR-Set, RGA/Text) in `no_std` Rust, with C ABI, WASM/TypeScript and Python surfaces. You bring the transport. |
+| Project | Links | What it is |
+|---|---|---|
+| **Seal** | [Repo](https://github.com/velvetmonkey/seal) · [Docs](https://velvetmonkey.github.io/seal/) · [Check a receipt](https://github.com/velvetmonkey/seal-check) · [Assurance kit](https://github.com/velvetmonkey/seal-assurance-kit) | A local MCP approval gate for Claude Code: exact-call prompts, at-most-once approval, drift refusal, and signed decision receipts. Seal is a gate, not a sandbox. |
+| **SafeMesh** | [Repo](https://github.com/velvetmonkey/safemesh) · [Docs](https://velvetmonkey.github.io/safemesh/) | Lean 4 proofs behind five CRDTs (G-Set, G-Counter, PN-Counter, OR-Set, RGA/Text) in `no_std` Rust, with C ABI, WASM/TypeScript and Python surfaces. You bring the transport. |
 
 ---
 
