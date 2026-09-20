@@ -6,7 +6,7 @@
 
 I build tools for AI-agent approvals and distributed state, then make their evidence easier to inspect. Architect working across data platforms, APIs, formal methods and AI research.
 
-**[Apps](#start-with-the-apps) · [Demos](#try-it-see-it-break-it) · [Lean by theme](#the-lean-work-by-theme) · [About](#about)**
+**[Apps](#start-with-the-apps) · [Demos](#try-it-see-it-break-it) · [Research](#research) · [About](#about)**
 
 ## Start with the apps
 
@@ -56,79 +56,9 @@ A Rust CRDT core with language bindings for merging distributed state. Explore c
 
 Prefer a terminal? Follow [Seal's approval walkthrough](https://github.com/velvetmonkey/seal#what-you-should-see) or [SafeMesh's partition-and-heal example](https://velvetmonkey.github.io/safemesh/examples/#rust-partition-and-heal).
 
-## The Lean work, by theme
+## Research
 
-The research underneath and alongside the apps: machine-checked mathematics about decisions, learning, convergence and stability. Pick a question, then open the repos for the precise theorem statements, assumptions and current status.
-
-**[Browse the Lean index →](https://velvetmonkey.github.io/lean/)**
-
-<details>
-<summary><strong>Agent safety &amp; distributed systems</strong> — What can a gate or a group of replicas guarantee?</summary>
-
-- [temporal-logic-lean](https://github.com/velvetmonkey/temporal-logic-lean) — temporal specifications and enforcement over modelled gate traces.
-- [crdt-lean](https://github.com/velvetmonkey/crdt-lean) — state-based CRDT convergence and conditional liveness.
-- [consensus-lean](https://github.com/velvetmonkey/consensus-lean) — quorum intersection and agreement safety.
-
-</details>
-
-<details>
-<summary><strong>Attention &amp; associative memory</strong> — What can these models express, and when does energy descend?</summary>
-
-- [attention-lean](https://github.com/velvetmonkey/attention-lean) — expressivity results for specified hard-attention models, plus constructive softmax results under stated margins.
-- [hopfield-lean](https://github.com/velvetmonkey/hopfield-lean) — classical Hopfield energy descent.
-- [modern-hopfield-lean](https://github.com/velvetmonkey/modern-hopfield-lean) — modern Hopfield energy descent.
-
-</details>
-
-<details>
-<summary><strong>Optimisation</strong> — Which assumptions make an update rule converge?</summary>
-
-| Method | Repositories |
-| --- | --- |
-| Gradient methods | [Gradient descent](https://github.com/velvetmonkey/gradient-descent-lean) · [Stochastic GD](https://github.com/velvetmonkey/sgd-lean) · [Coordinate descent](https://github.com/velvetmonkey/coordinate-descent-lean) |
-| Acceleration & curvature | [Nesterov](https://github.com/velvetmonkey/nesterov-lean) · [Heavy ball](https://github.com/velvetmonkey/heavy-ball-lean) · [Newton](https://github.com/velvetmonkey/newton-lean) |
-| Constraints & geometry | [Projected GD](https://github.com/velvetmonkey/projected-gd-lean) · [Mirror descent](https://github.com/velvetmonkey/mirror-descent-lean) · [Frank–Wolfe](https://github.com/velvetmonkey/frank-wolfe-lean) |
-| Nonsmooth & composite objectives | [Proximal GD](https://github.com/velvetmonkey/proximal-gd-lean) · [Subgradient](https://github.com/velvetmonkey/subgradient-lean) · [ADMM](https://github.com/velvetmonkey/admm-lean) |
-
-</details>
-
-<details>
-<summary><strong>Learning &amp; probability</strong> — What can finite evidence and repeated decisions tell us?</summary>
-
-- [pac-learning-lean](https://github.com/velvetmonkey/pac-learning-lean) — learning bounds and concentration inequalities.
-- [online-learning-lean](https://github.com/velvetmonkey/online-learning-lean) — FTRL regret bounds.
-- [calibration-lean](https://github.com/velvetmonkey/calibration-lean) — conditional concentration and martingale machinery; see the repo for the boundary of the calibration work.
-- [replicator-lean](https://github.com/velvetmonkey/replicator-lean) — replicator dynamics on the simplex.
-
-</details>
-
-<details>
-<summary><strong>Dynamics &amp; stability</strong> — When does a changing system settle, synchronise or stay bounded?</summary>
-
-- [kuramoto-lean](https://github.com/velvetmonkey/kuramoto-lean) — finite-system synchronisation.
-- [lyapunov-odes-lean](https://github.com/velvetmonkey/lyapunov-odes-lean) — Lyapunov stability for autonomous ODEs.
-- [lasalle-lean](https://github.com/velvetmonkey/lasalle-lean) · [barbalat-lean](https://github.com/velvetmonkey/barbalat-lean) — routes from stability to asymptotic behaviour.
-- [contraction-lean](https://github.com/velvetmonkey/contraction-lean) — contraction and fixed points.
-- [lotka-volterra-lean](https://github.com/velvetmonkey/lotka-volterra-lean) — predator–prey dynamics.
-- [langevin-lean](https://github.com/velvetmonkey/langevin-lean) — bounded-noise dynamics.
-
-</details>
-
-<details>
-<summary><strong>Algebra &amp; logic</strong> — What structures support the arguments?</summary>
-
-- [schur-complement-lean](https://github.com/velvetmonkey/schur-complement-lean) — Schur complements, inverses and block matrices.
-- [trace-logic-lean](https://github.com/velvetmonkey/trace-logic-lean) — Hoffman trace logic.
-
-</details>
-
-<details>
-<summary><strong>Physics &amp; reconstruction</strong> — What can be recovered from dynamics and partial views?</summary>
-
-- [hamiltonian-lean](https://github.com/velvetmonkey/hamiltonian-lean) — Hamiltonian mechanics and Liouville's theorem.
-- [observer-patch-holography](https://github.com/velvetmonkey/observer-patch-holography) — finite observer-patch reconstruction; active research.
-
-</details>
+Alongside the apps I keep a machine-checked Lean 4 proof corpus on optimisation, learning, dynamics and distributed systems. It has its own index, with the repositories, theorem statements and current status: **[Lean index →](https://velvetmonkey.github.io/lean/)**. More about me and the research is on [my website](https://velvetmonkey.github.io/).
 
 ### Experiments that can say no
 
