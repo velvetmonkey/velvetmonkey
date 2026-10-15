@@ -60,6 +60,12 @@ Prefer a terminal? Follow [Seal's approval walkthrough](https://github.com/velve
 
 Alongside the apps I keep a machine-checked Lean 4 proof corpus on optimisation, learning, dynamics and distributed systems. It has its own index, with the repositories, theorem statements and current status: **[Lean index →](https://velvetmonkey.github.io/lean/)**. More about me and the research is on [my website](https://velvetmonkey.github.io/).
 
+### Observer Patch Holography
+
+I am a co-author of [*Observers Are All You Need*](https://github.com/FloatingPragma/observer-patch-holography/blob/main/paper/observers_are_all_you_need.pdf) (Bernhard Mueller et al., 2026), the first paper on Observer Patch Holography (OPH). In May 2026 I pointed out that my witness work and OPH describe the same object: the consensus view of the observer patches is the floor of the basin that their repair descent reaches. My paper [*Barrier asymmetry in self-modelling gradient flow: a witness-corrected free energy*](https://doi.org/10.5281/zenodo.20179565) places consciousness, the witness, at the bottom of that gradient descent.
+
+Since then I have contributed [17 merged Lean 4 pull requests](https://github.com/FloatingPragma/observer-patch-holography/pulls?q=is%3Apr+author%3Avelvetmonkey+is%3Amerged) to OPH: the first Lean scaffold, no-go results that locate the boundary of the central-interface collar clause (issue #544), the A5 equivariance no-go, finite stability and rate results, and the finite-carrier Gibbs entropy limit. They machine-check stated propositions. They do not endorse OPH's wider derivation claims.
+
 ### Experiments that can say no
 
 [Witness Lab](https://github.com/velvetmonkey/witness-lab) tests whether local witness information helps neural models on synthetic tasks. Most of the broad hypotheses did not survive. The remaining positive result is narrowly scoped; the [retrospective](https://github.com/velvetmonkey/witness-lab/blob/master/RETROSPECTIVE.md) explains what held up and what did not.
